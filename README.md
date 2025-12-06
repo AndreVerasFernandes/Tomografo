@@ -10,7 +10,7 @@ O projeto foi desenvolvido como parte do curso de Física Aplicada no SENAC CAS,
 
 ## 👥 Autores
 
-- **Andre Luiz Veras** - duverassusa@gmail.com
+- **Andre Luiz Veras** - duverasusa@gmail.com
 - **Andrew Araujo** - andrewaraujoco@gmail.com
 - **Gustavo Borges** - guborges4789a@gmail.com
 - **Ruan Gomes** - ruanggs.05@gmail.com
